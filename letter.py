@@ -1,0 +1,5 @@
+print("Martes 10 de enero de 2023")
+print("Me siento bien ahora mimso")
+print("Quiero obtener el titulo de bachillerato y entrar a un grado")
+print("Sigue trabajando")
+print("🙉")
